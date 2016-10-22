@@ -1,0 +1,20 @@
+{
+  "name": "hubot-connect-4",
+  "version": "1.0.0",
+  "description": "Hubot playable connect-4",
+  "main": "connect-4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/edznux/hubot-connect-4"
+  },
+  "keywords": [
+    "connect-4",
+    "hubot",
+    "hubot-script"
+  ],
+  "author": "Edouard SCHWEISGUTH <edznux@gmail.com> (https://edouard.schweisguth.fr)",
+  "license": "MIT"
+}
